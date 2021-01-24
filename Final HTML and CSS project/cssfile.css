@@ -1,0 +1,155 @@
+#bg{
+    background-image:url("images/10.jpg") ;
+    height:500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    text-align: center;
+    text-align: justify;
+   
+    
+}
+#service{
+    height:300px;
+    width: 280px;
+    background-color: lightgrey;
+    margin-top: 70px;
+   
+   
+}
+.image{
+    text-align: center;
+    position: relative;
+   top:30px;
+   top:-50px;
+}
+.background{
+    height: 300px;
+    width: 250px;
+    background-color: lightgrey;
+}
+.portfolio ul li a{
+    text-decoration: none;
+    color:white;
+    
+   
+
+}
+.portfolio ul li{
+    list-style-type:none;
+    display: inline;
+    margin: 10px;
+}
+.portfolio ul li a:hover{
+    color: chartreuse;
+    border-bottom:5px solid chartreuse ;
+
+}
+.logo li a:active{
+    color: rgb(255, 80, 103);
+}
+.process{
+    height: 100px;
+    width: 100px;
+    border: 2px solid grey;
+    border-radius: 100%;
+    position:relative;
+}
+.process1{
+    height: 30px;
+    width: 30px;
+    
+    border-radius: 100%;
+    background-color: orange;
+    position: absolute;
+    text-align: center;
+    left:33px;
+    top:-15px;
+
+}
+.img{
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.border1{
+    position: relative;
+    left:96px;
+    bottom:30px;
+    margin-right: 4px;
+    border-top:2px solid grey ;
+ 
+    
+  
+}
+.john{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    
+}
+johndoe{
+    border-right: 2px solid black;
+     border-bottom: 2px solid black; 
+     width: 500px; 
+     height: 200px;
+}
+johndoe2{
+    border-right: 2px solid black;
+     width: 500px; 
+     height: 200px;
+}
+form input{
+    padding: 10px;
+    width: 250px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 5px;
+    outline-style: none;
+}
+.form{
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 20px;
+    outline-style: none;
+    background-color: orange;
+}
+.contact{
+    text-align: center;
+}
+.services ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+.services ul li{
+    list-style-type: none;
+    padding-right: 33px;
+
+}
+.services ul li a:hover{
+    color: orangered;
+    
+
+}
+.top{
+    height: 40px;
+    width: 40px;
+    background-color:orange;
+    border-radius: 100%;
+    position: relative;
+    left: 250px;
+
+    
+}
+.top i{
+    position: absolute;
+    right: 13px;
+    top: 11px;
+    font-size: 15px;
+}
+div.top{
+    margin-left: 10px;
+}
